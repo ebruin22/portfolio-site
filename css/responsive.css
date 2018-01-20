@@ -1,0 +1,149 @@
+@media (min-width: 500px) and (max-width: 766px) {
+    img.img-responsive.logo {
+        width:25%;
+        padding-left: 0;
+    }
+
+    h1 {
+        font-family: inherit;
+        font-size: 2.5em;
+        font-weight: 500;
+        line-height: 0.5;
+        text-align: right;
+        color:#2d3c49;
+        white-space: nowrap;
+        padding-top: 0.7em;
+    }
+
+    p.header_p {
+        font-size: 1.75em;
+        line-height: 1em;
+    }
+
+    h2 {
+        font-size: 2em;
+        padding-left: 9em;
+    }
+
+    h3 {
+        font-size: 1.5em;
+        margin-top: 0.5em;
+    }
+
+    img.img-reponsive.main {
+        width:100%;
+        height:auto;
+    }
+
+    img.img-responsive.projects {
+        width: 100%;
+        height: 228px;
+    }
+
+    a {
+        font-size: 1.25em;
+    }
+
+    .footer-p {
+        font-size: 1em;
+    }
+
+}
+
+@media (min-width: 767px) {
+    img.img-responsive.logo {
+        width:25%;
+        padding-left: 0;
+    }
+
+    h1 {
+        font-family: inherit;
+        font-size: 3em;
+        font-weight: 500;
+        line-height: 0.5;
+        text-align: right;
+        color:#2d3c49;
+        white-space: nowrap;
+        padding-top: 0.7em;
+    }
+
+    p.header_p {
+        font-size: 1.75em;
+        line-height: 1em;
+    }
+
+    h2 {
+        font-size: 2em;
+        padding-left: 9em;
+    }
+
+    h3 {
+        font-size: 1.5em;
+        margin-top: 0.5em;
+    }
+
+    img.img-reponsive.main {
+        width:100%;
+        height:auto;
+    }
+    img.img-responsive.projects {
+        width: 100%;
+        height: 228px;
+    }
+
+    a {
+        font-size: 1.25em;
+    }
+
+    .footer-p {
+        font-size: 1em;
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        width: 992px;
+        margin: 0 auto;
+    }
+
+    img.img-responsive.logo {
+        width:20%;
+        height:auto;
+    }
+
+    p.header_p {
+        line-height: 1.5em;
+    }
+
+    h2 {
+        font-size: 2em;
+        width: 50%;
+        margin-left:auto;
+        margin-right: auto;
+        padding-left: 0;
+        text-align: center;
+        margin-bottom: 1em;
+    }
+
+    .col-xs-6.col-md-6.projects {
+        margin-bottom: 1em;
+        padding-right: 0;
+    }
+
+    h3 {
+        font-size: 1.75em;
+    }
+
+    img.img-responsive.projects {
+        height:350px;
+    }
+
+    a {
+        font-size: 1.25em;
+    }
+
+    .footer{
+        margin-top: 3em;
+    }
+
+}
